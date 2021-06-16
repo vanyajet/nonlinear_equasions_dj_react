@@ -67,7 +67,7 @@ function Solvers () {
                 initialValues={{ variables:'', initial_guess:'' }}
                 onSubmit={ 
                     async function handleSubmit (values) {
-                    await axios.post('http://127.0.0.1:8000/api/test-api/', {
+                    await axios.post('https://non-linear.herokuapp.com/api/test-api/', {
                         values,
                     }).then(res => setResData(res.data))
                 }}
