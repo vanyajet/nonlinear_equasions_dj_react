@@ -12,9 +12,6 @@ openpyxl==3.0.6
 packaging==20.9
 Pygments==2.8.0
 PyInstaller==3.6
-pywin32==300
-pywin32-ctypes==0.2.0
-pywinpty==0.5.7
 requests==2.20.0
 scipy==1.6.1
 xmltodict==0.12.0
