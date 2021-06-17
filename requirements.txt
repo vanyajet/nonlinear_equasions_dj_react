@@ -15,6 +15,7 @@ geojson==2.5.0
 jaraco.context==4.0.0
 jsonschema==3.2.0
 mistune==0.8.4
+django-utils-six==2.0
 monotonic==1.5
 more-itertools==8.7.0
 mpmath==1.2.1
@@ -27,7 +28,7 @@ requests==2.20.0
 scipy==1.6.1
 xmltodict==0.12.0
 gunicorn==20.1.0
-whitenoise==3.3.1
+whitenoise==5.2.0
 pytz==2018.5
 requests-oauthlib==1.0.0
 six==1.11.0
